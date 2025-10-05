@@ -91,11 +91,11 @@ python app.py
 ##movement
 ![alt text](<report.png>)
 ##Product_mvement
-![alt text](movements.png)
+![alt text](movement pic.png)
 ##location
-![alt text](locations.png)
+![alt text](location_pic-1.png)
 ##product
-![alt text](product.png)
+![alt text](productpic-1.png)
 
 ## Contributing 
 
