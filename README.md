@@ -89,13 +89,13 @@ python app.py
 
 ### Product page
 ##movement
-![alt text](<movement pic.png>)
+![alt text](<report.png>)
 ##Product_mvement
-![alt text](Product_movement-1.png)
+![alt text](movements.png)
 ##location
-![alt text](location_pic-1.png)
+![alt text](locations.png)
 ##product
-![alt text](productpic-1.png)
+![alt text](product.png)
 
 ## Contributing 
 
